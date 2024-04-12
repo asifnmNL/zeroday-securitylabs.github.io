@@ -94,11 +94,11 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # XXX: Hacky way to add country using region
-address = {street = "Room 819, N1, Korea Advanced Institute of Science and Technology (KAIST)", city = "Daejeon", country = "South Korea", region = "South Korea", country_code = "KR"}
+address = {street = "Karel Appelhof", city = "Diemen", country = "Netherlands", region = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -114,7 +114,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "@insu_yun_en", link = "https://twitter.com/insu_yun_en"},
-  {icon = "github", icon_pack = "fab", name = "kaist-hacking", link = "https://github.com/kaist-hacking"},
+  {icon = "github", icon_pack = "fab", name = "Zerodayhacking-labs", link = "https://github.com/asifnmNL/zeroday-securitylabs.github.io"},
   ]
 
 ############################
