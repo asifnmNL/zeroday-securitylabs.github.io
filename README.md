@@ -1,4 +1,4 @@
-# kaist-hacking.github.io
+
 
 ## Setup environment
 1. Install hugo (https://gohugo.io/getting-started/installing/)
