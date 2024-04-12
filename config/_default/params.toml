@@ -88,7 +88,7 @@ show_related = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "hacking-lab@hacking.kaist.ac.kr"
+email = "info@hackpertise.com"
 phone = ""
 
 # Address
