@@ -37,4 +37,4 @@ hero_media = "logo.png"
 
 **We want to do zero day security research and publish our findings here**
 
-If you are interested in hacking with us, feel free to fill [this form](https://forms.gle/FMLUUNAE1yADDcPw9)!
+
